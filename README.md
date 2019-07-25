@@ -1,7 +1,6 @@
 Context
-Build a full stack social network web app from the scratch using MERN stack. The app is a mix between some features from LinkedIn and Facebook, which enables users to register/login, create a profile (experience and academic background), add and remove likes, comments.
+- Build a full stack social network web app from the scratch using MERN stack. The app is a mix between some features from LinkedIn and Facebook, which enables users to register/login, create a profile (experience and academic background), add and remove likes, comments.
 
-Main Activities
 Backend
 - Create an extensive backend API / RESTful webservices with NodeJS, ExpressJS & MongoDB (MongoDB Atlas); Use Stateless JWT authentication practices; Testing with Postman
 - Technologies: Node, ExpressJs, MongoDB, ES6,Jsonwebtoken
