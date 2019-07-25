@@ -1,0 +1,29 @@
+body{
+  width: 100%;
+  height: 220%; 
+
+}
+
+.heading {
+    z-index:1;
+    position:relative;
+    padding-top:40vh;
+    text-align: center
+}
+
+.register-form {
+    margin-top:100px
+}
+
+
+.alert-success{
+    background:#15CD72;
+    color:#fff;  
+  }
+  
+.alert-danger{
+    background: var(--danger);
+    color:#fff;
+    
+  }
+  
